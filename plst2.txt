@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,1+1
+https://zenstream.divan.tv:8081/secure/lvaZEFGRy5lbtoKZ-DXa4Q/1583706702/tv2/5e6501ceae4611.10863758/tv.m3u8
+#EXTINF:-1,inter
+https://zenstream.divan.tv:8081/secure/Op6N5lMftrhWlbydqhpWIg/1583441343/tv92/5e60f53fcfff00.19226891/tv.m3u8
+#EXTINF:-1,ntn
+https://zenstream.divan.tv:8081/secure/nnVnAliu0c6sIJvoswOFDg/1583441440/tv91/5e60f5a058bca1.36793743/tv.m3u8
+#EXTINF:-1,mega
+https://j2.divan.tv:8081/secure/t2OSVJzdOaf36gM0xIPlDQ/1583441379/tv93/5e60f5633be419.44258185/tv.m3u8
+#EXTINF:-1,Ukraine
+https://zenstream.divan.tv:8081/secure/TihgQLIUqHHlzktgA_KesQ/1583441227/tv263/5e60f4cb0cf4c2.08074049/tv.m3u8
+#EXTINF:-1,STB
+https://zenstream.divan.tv:8081/secure/7m9Fx1OwAm8oxznubWGk8Q/1583704093/tv10/5e64f79d448476.48674617/tv.m3u8
+#EXTINF:-1,ictv
+https://int09.divan.tv:8081/secure/Tu2me3RAfKiJZYcpPy-2EQ/1583441294/tv6/5e60f50e437ec7.87141829/tv.m3u8
+#EXTINF:-1,Novyy Kanal
+https://zenstream.divan.tv:8081/secure/xGAII4lljIKuC86WaQlNGg/1583441175/tv11/5e60f4970805f8.25788970/tv.m3u8
+#EXTINF:-1,2+2
+https://int10.divan.tv:8081/secure/AiucD6EgoF8wUjIT44_MEA/1583441149/tv3/5e60f47db67187.28219735/tv.m3u8
+#EXTINF:-1,K1
+https://zenstream.divan.tv:8081/secure/xSJT-tHCfiQOz_fuzi28pA/1583450652/tv100/5e61199c8534a4.13046573/tv.m3u8
+#EXTINF:-1,Enter-Film
+https://int04.divan.tv:8081/secure/fhLxwjn-p3oAZOMVd_mDoQ/1583512807/tv99/5e620c67075c97.43469455/tv.m3u8
+#EXTINF:-1,NTA
+https://zenstream.divan.tv:8081/secure/aWBaDHoW-As0CvhYqIXQew/1583451114/tv149/5e611b6a97f3e7.80501718/tv.m3u8
+#EXTINF:-1,Discovery Channel
+https://zenstream.divan.tv:8081/secure/PxuFYT608RQfXDX5-wLQXw/1583513857/tv174/5e621081b29f41.92933115/tv.m3u8
+#EXTINF:-1,Discovery Science
+https://zenstream.divan.tv:8081/secure/HHwD9PbgJ13e6-GuXw1axA/1583512357/tv32/5e620aa5e30f15.25361108/tv.m3u8
+#EXTINF:-1,Discovery Showcase HD
+https://int09.divan.tv:8081/secure/Y_sW3P2XOSDuB5sTvHs69A/1583703881/tv172/5e64f6c959c873.99569292/tv.m3u8
+#EXTINF:-1,History
+https://zenstream.divan.tv:8081/secure/EnnWolzzPQQc9NV5_9SB4A/1583450856/tv106/5e611a68388cc6.53954482/tv.m3u8
+#EXTINF:-1,History 2
+https://int10.divan.tv:8081/secure/cRvrNT_vzMorAmiu6Povtw/1583512542/tv258/5e620b5e1365a6.09769845/tv.m3u8
+#EXTINF:-1,Travel Channel 
+https://int09.divan.tv:8081/secure/VdqO_A5-AO3A5XQJigYTnw/1583704157/tv79/5e64f7ddca22f6.61600636/tv.m3u8
+#EXTINF:-1,Viasat History
+https://zenstream.divan.tv:8081/secure/1b5ZqwN212FpiHNWTLYQVw/1583450924/tv236/5e611aac4add39.16567173/tv.m3u8
+#EXTINF:-1,Viasat Nature/History
+https://int09.divan.tv:8081/secure/Wh4KLMCeBJ-oCoapJ3shzA/1583450975/tv240/5e611adfcfb9c9.14006379/tv.m3u8
+#EXTINF:-1,Viasat Explore 
+https://int04.divan.tv:8081/secure/rR1glV7E5WJZr21DG4JFtQ/1583513477/tv235/5e620f05db6371.11022103/tv.m3u8
+#EXTINF:-1,Animal Planet
+https://zenstream.divan.tv:8081/secure/d1jvEKnom4RPViJBJeLdnw/1583703759/tv176/5e64f64fe77406.06691086/tv.m3u8
+#EXTINF:-1,4Ever Music
+https://j2.divan.tv:8081/secure/KExU_2SIu6EfTS_QNiggvg/1590596959/tv21/5ece24dff3b975.37542064/tv.m3u8
+#EXTINF:-1,VH1
+https://int04.divan.tv:8081/secure/ZP7uR31nHc0jEjHMKKsL5w/1590596784/tv287/5ece24306715d5.66190797/tv.m3u8
+#EXTINF:-1,VH1 CLASSIC 
+https://zenstream.divan.tv:8081/secure/YiDDiXoJQi04oasppKAtXQ/1590597424/tv290/5ece26b06e9bf8.88167591/tv.m3u8
+#EXTINF:-1,Nashe lyubimoe kino
+https://j2.divan.tv:8081/secure/xORG9RX7_Lj1FySwP78Epg/1590597473/tv260/5ece26e1e68656.19520215/tv.m3u8
+#EXTINF:-1,Kinomiks
+https://zenstream.divan.tv:8081/secure/xZ5y_6L4k0xSz4mTzhcqyw/1590597761/tv160/5ece2801c30b72.19857835/tv.m3u8
+#EXTINF:-1,Muzhskoe kino
+https://zenstream.divan.tv:8081/secure/-1FS5F5WvM5wRc2AotabvQ/1590597835/tv161/5ece284bb4f538.96468225/tv.m3u8
+#EXTINF:-1,Kinikomediia
+https://zenstream.divan.tv:8081/secure/rdkBGo4aAz0k4wZIzp1vaA/1590597868/tv192/5ece286ca62ff0.56830388/tv.m3u8
+#EXTINF:-1,Kinoseriya
+https://zenstream.divan.tv:8081/secure/GK_IofOTVhRi0XJvjhbWlA/1590597758/tv219/5ece27fe54e643.71985969/tv.m3u8
+#EXTINF:-1,Dorama
+https://zenstream.divan.tv:8081/secure/6USLnE9FVzxILtVCNsDV6A/1590597618/tv153/5ece2772aafbf9.84584773/tv.m3u8
+#EXTINF:-1,Star Cinema HD 
+https://zenstream.divan.tv:8081/secure/TZ31zBKxbzW2na9RbPyCiA/1590597556/tv36/5ece27343ea642.25965058/tv.m3u8
+#EXTINF:-1,VIP Megahit HD
+https://zenstream.divan.tv:8081/secure/QO77y9JmwJsnEGijMTGv-g/1583703560/tv186/5e64f588bc6b36.38010719/tv.m3u8
+#EXTINF:-1,VIP Premiere HD
+https://zenstream.divan.tv:8081/secure/d-PT1GEfG2X-3EpoDorDRg/1583703622/tv187/5e64f5c6707060.14502199/tv.m3u8
+#EXTINF:-1,VIP Comedy HD
+https://zenstream.divan.tv:8081/secure/VvP8oUCso6unGEY1a_--IA/1583703660/tv244/5e64f5ec496422.48066625/tv.m3u8
+#EXTINF:-1,TV1000
+https://zenstream.divan.tv:8081/secure/pGZSQbIAz-zqaOI098BWSw/1583703831/tv242/5e64f69784a8a5.51001500/tv.m3u8
+#EXTINF:-1,TV1000 Action
+https://zenstream.divan.tv:8081/secure/nfBaVM4gLZ1-m05C0CSWZw/1583703976/tv241/5e64f728c5f1d9.91226906/tv.m3u8
+#EXTINF:-1,TV1000 World Kino 
+https://int04.divan.tv:8081/secure/Tss9vajRmd5AFzD6gpxe-g/1583703975/tv243/5e64f727402dd2.23081290/tv.m3u8
+#EXTINF:-1,Paramount Comedy
+https://zenstream.divan.tv:8081/secure/JolFVejmA5BuHqHXdkALJg/1583704213/tv108/5e64f8152f5451.07652293/tv.m3u8
+#EXTINF:-1,Investigation Discovery
+https://zenstream.divan.tv:8081/secure/AW7mP5iEyYO-3eT_G9oBzg/1583703951/tv118/5e64f70fd7e611.88675895/tv.m3u8
+#EXTINF:-1,NLO TV HD
+https://zenstream.divan.tv:8081/secure/bWRqc56Sdrx2SdycWmDnqg/1583704329/tv265/5e64f889f03d24.75010838/tv.m3u8
+#EXTINF:-1,Travel Channel (eng)
+https://zenstream.divan.tv:8081/secure/NMXzoQLJnqDcbuIhRbQDIw/1583451057/tv69/5e611b31c4ceb7.14962135/tv.m3u8
+#EXTINF:-1,English Club TV
+https://zenstream.divan.tv:8081/secure/9ggw5Dr1uJWdkMlfPRxb4w/1583440620/tv253/5e60f26c8971b2.57409502/tv.m3u8
