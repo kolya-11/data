@@ -79,8 +79,12 @@ https://int04.divan.tv:8081/secure/Tss9vajRmd5AFzD6gpxe-g/1583703975/tv243/5e64f
 https://zenstream.divan.tv:8081/secure/JolFVejmA5BuHqHXdkALJg/1583704213/tv108/5e64f8152f5451.07652293/tv.m3u8
 #EXTINF:-1,Investigation Discovery
 https://zenstream.divan.tv:8081/secure/AW7mP5iEyYO-3eT_G9oBzg/1583703951/tv118/5e64f70fd7e611.88675895/tv.m3u8
+#EXTINF:-1,Spike
+https://int09.divan.tv:8081/secure/lubLZgMMlts0aH_94jlyrA/1597888288/tv266/5f3d66a0591d96.57560189/tv.m3u8
 #EXTINF:-1,NLO TV HD
 https://zenstream.divan.tv:8081/secure/bWRqc56Sdrx2SdycWmDnqg/1583704329/tv265/5e64f889f03d24.75010838/tv.m3u8
+#EXTINF:-1,Cars & Stars TV HD 
+https://j2.divan.tv:8081/secure/c0wM6ZhVIfWqWR_NOcD2rw/1597892451/tv141/5f3d76e3823f71.03806561/tv.m3u8
 #EXTINF:-1,Travel Channel (eng)
 https://zenstream.divan.tv:8081/secure/NMXzoQLJnqDcbuIhRbQDIw/1583451057/tv69/5e611b31c4ceb7.14962135/tv.m3u8
 #EXTINF:-1,English Club TV
