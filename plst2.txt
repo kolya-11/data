@@ -89,3 +89,5 @@ https://j2.divan.tv:8081/secure/c0wM6ZhVIfWqWR_NOcD2rw/1597892451/tv141/5f3d76e3
 https://zenstream.divan.tv:8081/secure/NMXzoQLJnqDcbuIhRbQDIw/1583451057/tv69/5e611b31c4ceb7.14962135/tv.m3u8
 #EXTINF:-1,English Club TV
 https://zenstream.divan.tv:8081/secure/9ggw5Dr1uJWdkMlfPRxb4w/1583440620/tv253/5e60f26c8971b2.57409502/tv.m3u8
+#EXTINF:-1,Ukraina 24 HD
+https://zenstream.divan.tv:8081/secure/aMqCwnj_3YDxXqy7y8gKTA/1599012455/tv254/5f4e8de7e8efb1.51889089/tv.m3u8
