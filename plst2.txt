@@ -61,8 +61,6 @@ https://zenstream.divan.tv:8081/secure/rdkBGo4aAz0k4wZIzp1vaA/1590597868/tv192/5
 https://zenstream.divan.tv:8081/secure/GK_IofOTVhRi0XJvjhbWlA/1590597758/tv219/5ece27fe54e643.71985969/tv.m3u8
 #EXTINF:-1,TLC
 https://zenstream.divan.tv:8081/secure/IOtNozRHmLHumvcyqkwNKg/1584298298/tv175/5e6e08ba50d7d7.06208304/tv.m3u8
-#EXTINF:-1,Star Cinema HD 
-https://zenstream.divan.tv:8081/secure/TZ31zBKxbzW2na9RbPyCiA/1590597556/tv36/5ece27343ea642.25965058/tv.m3u8
 #EXTINF:-1,VIP Megahit HD
 https://zenstream.divan.tv:8081/secure/QO77y9JmwJsnEGijMTGv-g/1583703560/tv186/5e64f588bc6b36.38010719/tv.m3u8
 #EXTINF:-1,VIP Premiere HD
@@ -75,14 +73,28 @@ https://zenstream.divan.tv:8081/secure/pGZSQbIAz-zqaOI098BWSw/1583703831/tv242/5
 https://zenstream.divan.tv:8081/secure/nfBaVM4gLZ1-m05C0CSWZw/1583703976/tv241/5e64f728c5f1d9.91226906/tv.m3u8
 #EXTINF:-1,TV1000 World Kino 
 https://int04.divan.tv:8081/secure/Tss9vajRmd5AFzD6gpxe-g/1583703975/tv243/5e64f727402dd2.23081290/tv.m3u8
+#EXTINF:-1,Fine Living 
+https://j2.divan.tv:8081/secure/FIaMkKjFFZFaF6xRjzRwow/1584299039/tv49/5e6e0b9f2aaec9.09318069/tv.m3u8
+#EXTINF:-1,Sony Channel 
+https://zenstream.divan.tv:8081/secure/uMocIaYuy2atU9ddX-s_eQ/1584299137/tv256/5e6e0c01b08433.73826868/tv.m3u8
+#EXTINF:-1,Sony Turbo
+https://int10.divan.tv:8081/secure/30PYw1feN4YR1dZPIEB5NQ/1584299216/tv257/5e6e0c50a6ab93.43222563/tv.m3u8
+#EXTINF:-1,Sony SciFi
+https://zenstream.divan.tv:8081/secure/tidU8Ji3rsB0vyW6X-La8Q/1584299285/tv255/5e6e0c95b37012.20411170/tv.m3u8
+#EXTINF:-1,Hollywood 
+https://zenstream.divan.tv:8081/secure/PUQuXLH8Yuz_-blAqyl7bw/1584299392/tv58/5e6e0d008880a4.32341033/tv.m3u8
 #EXTINF:-1,Paramount Comedy
 https://zenstream.divan.tv:8081/secure/JolFVejmA5BuHqHXdkALJg/1583704213/tv108/5e64f8152f5451.07652293/tv.m3u8
-#EXTINF:-1,Investigation Discovery
-https://zenstream.divan.tv:8081/secure/AW7mP5iEyYO-3eT_G9oBzg/1583703951/tv118/5e64f70fd7e611.88675895/tv.m3u8
 #EXTINF:-1,Spike
 https://int09.divan.tv:8081/secure/lubLZgMMlts0aH_94jlyrA/1597888288/tv266/5f3d66a0591d96.57560189/tv.m3u8
+#EXTINF:-1,Epic Drama
+https://zenstream.divan.tv:8081/secure/6ARv2bKsHV3gp1iwcBXYdA/1584298412/tv138/5e6e092c72dbe4.19306310/tv.m3u8
+#EXTINF:-1,Star Cinema HD 
+https://zenstream.divan.tv:8081/secure/TZ31zBKxbzW2na9RbPyCiA/1590597556/tv36/5ece27343ea642.25965058/tv.m3u8
 #EXTINF:-1,Нло ТВ
 https://zenstream.divan.tv:8081/secure/bWRqc56Sdrx2SdycWmDnqg/1583704329/tv265/5e64f889f03d24.75010838/tv.m3u8
+#EXTINF:-1,Investigation Discovery
+https://zenstream.divan.tv:8081/secure/AW7mP5iEyYO-3eT_G9oBzg/1583703951/tv118/5e64f70fd7e611.88675895/tv.m3u8
 #EXTINF:-1,Cars & Stars TV HD 
 https://j2.divan.tv:8081/secure/c0wM6ZhVIfWqWR_NOcD2rw/1597892451/tv141/5f3d76e3823f71.03806561/tv.m3u8
 #EXTINF:-1,Travel Channel (eng)
