@@ -3,17 +3,17 @@
 https://zenstream.divan.tv:8081/secure/lvaZEFGRy5lbtoKZ-DXa4Q/1583706702/tv2/5e6501ceae4611.10863758/tv.m3u8
 #EXTINF:-1,inter
 https://zenstream.divan.tv:8081/secure/Op6N5lMftrhWlbydqhpWIg/1583441343/tv92/5e60f53fcfff00.19226891/tv.m3u8
-#EXTINF:-1,ntn
+#EXTINF:-1,НТН
 https://zenstream.divan.tv:8081/secure/nnVnAliu0c6sIJvoswOFDg/1583441440/tv91/5e60f5a058bca1.36793743/tv.m3u8
-#EXTINF:-1,mega
+#EXTINF:-1,Мега
 https://j2.divan.tv:8081/secure/t2OSVJzdOaf36gM0xIPlDQ/1583441379/tv93/5e60f5633be419.44258185/tv.m3u8
-#EXTINF:-1,Ukraine
+#EXTINF:-1,Украина
 https://zenstream.divan.tv:8081/secure/TihgQLIUqHHlzktgA_KesQ/1583441227/tv263/5e60f4cb0cf4c2.08074049/tv.m3u8
-#EXTINF:-1,STB
+#EXTINF:-1,Стб
 https://zenstream.divan.tv:8081/secure/7m9Fx1OwAm8oxznubWGk8Q/1583704093/tv10/5e64f79d448476.48674617/tv.m3u8
 #EXTINF:-1,ictv
 https://int09.divan.tv:8081/secure/Tu2me3RAfKiJZYcpPy-2EQ/1583441294/tv6/5e60f50e437ec7.87141829/tv.m3u8
-#EXTINF:-1,Novyy Kanal
+#EXTINF:-1,Новый канал
 https://zenstream.divan.tv:8081/secure/xGAII4lljIKuC86WaQlNGg/1583441175/tv11/5e60f4970805f8.25788970/tv.m3u8
 #EXTINF:-1,2+2
 https://int10.divan.tv:8081/secure/AiucD6EgoF8wUjIT44_MEA/1583441149/tv3/5e60f47db67187.28219735/tv.m3u8
