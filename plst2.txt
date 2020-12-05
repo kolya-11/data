@@ -49,18 +49,18 @@ https://j2.divan.tv:8081/secure/KExU_2SIu6EfTS_QNiggvg/1590596959/tv21/5ece24dff
 https://int04.divan.tv:8081/secure/ZP7uR31nHc0jEjHMKKsL5w/1590596784/tv287/5ece24306715d5.66190797/tv.m3u8
 #EXTINF:-1,VH1 CLASSIC 
 https://zenstream.divan.tv:8081/secure/YiDDiXoJQi04oasppKAtXQ/1590597424/tv290/5ece26b06e9bf8.88167591/tv.m3u8
-#EXTINF:-1,Nashe lyubimoe kino
+#EXTINF:-1,Наше любимое кино
 https://j2.divan.tv:8081/secure/xORG9RX7_Lj1FySwP78Epg/1590597473/tv260/5ece26e1e68656.19520215/tv.m3u8
-#EXTINF:-1,Kinomiks
+#EXTINF:-1,Киномикс
 https://zenstream.divan.tv:8081/secure/xZ5y_6L4k0xSz4mTzhcqyw/1590597761/tv160/5ece2801c30b72.19857835/tv.m3u8
-#EXTINF:-1,Muzhskoe kino
+#EXTINF:-1,Мужское кино
 https://zenstream.divan.tv:8081/secure/-1FS5F5WvM5wRc2AotabvQ/1590597835/tv161/5ece284bb4f538.96468225/tv.m3u8
-#EXTINF:-1,Kinikomediia
+#EXTINF:-1,Кинокомедия
 https://zenstream.divan.tv:8081/secure/rdkBGo4aAz0k4wZIzp1vaA/1590597868/tv192/5ece286ca62ff0.56830388/tv.m3u8
-#EXTINF:-1,Kinoseriya
+#EXTINF:-1,Киносерия
 https://zenstream.divan.tv:8081/secure/GK_IofOTVhRi0XJvjhbWlA/1590597758/tv219/5ece27fe54e643.71985969/tv.m3u8
-#EXTINF:-1,Dorama
-https://zenstream.divan.tv:8081/secure/6USLnE9FVzxILtVCNsDV6A/1590597618/tv153/5ece2772aafbf9.84584773/tv.m3u8
+#EXTINF:-1,TLC
+https://zenstream.divan.tv:8081/secure/IOtNozRHmLHumvcyqkwNKg/1584298298/tv175/5e6e08ba50d7d7.06208304/tv.m3u8
 #EXTINF:-1,Star Cinema HD 
 https://zenstream.divan.tv:8081/secure/TZ31zBKxbzW2na9RbPyCiA/1590597556/tv36/5ece27343ea642.25965058/tv.m3u8
 #EXTINF:-1,VIP Megahit HD
@@ -81,7 +81,7 @@ https://zenstream.divan.tv:8081/secure/JolFVejmA5BuHqHXdkALJg/1583704213/tv108/5
 https://zenstream.divan.tv:8081/secure/AW7mP5iEyYO-3eT_G9oBzg/1583703951/tv118/5e64f70fd7e611.88675895/tv.m3u8
 #EXTINF:-1,Spike
 https://int09.divan.tv:8081/secure/lubLZgMMlts0aH_94jlyrA/1597888288/tv266/5f3d66a0591d96.57560189/tv.m3u8
-#EXTINF:-1,NLO TV HD
+#EXTINF:-1,Нло ТВ
 https://zenstream.divan.tv:8081/secure/bWRqc56Sdrx2SdycWmDnqg/1583704329/tv265/5e64f889f03d24.75010838/tv.m3u8
 #EXTINF:-1,Cars & Stars TV HD 
 https://j2.divan.tv:8081/secure/c0wM6ZhVIfWqWR_NOcD2rw/1597892451/tv141/5f3d76e3823f71.03806561/tv.m3u8
