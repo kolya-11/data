@@ -14,11 +14,11 @@ https://zenstream.divan.tv:8081/secure/7m9Fx1OwAm8oxznubWGk8Q/1583704093/tv10/5e
 #EXTINF:-1,UA:Перший
 https://zenstream.divan.tv:8081/secure/yZ7A86MkBCM35gf8tutFsQ/1613006478/tv1/6024160e074b74.12757621/tv.m3u8
 #EXTINF:-1,ictv
-https://int09.divan.tv:8081/secure/Tu2me3RAfKiJZYcpPy-2EQ/1583441294/tv6/5e60f50e437ec7.87141829/tv.m3u8
+https://int04.divan.tv:8081/secure/Tu2me3RAfKiJZYcpPy-2EQ/1583441294/tv6/5e60f50e437ec7.87141829/tv.m3u8
 #EXTINF:-1,Новый канал
 https://zenstream.divan.tv:8081/secure/xGAII4lljIKuC86WaQlNGg/1583441175/tv11/5e60f4970805f8.25788970/tv.m3u8
 #EXTINF:-1,2+2
-https://int10.divan.tv:8081/secure/AiucD6EgoF8wUjIT44_MEA/1583441149/tv3/5e60f47db67187.28219735/tv.m3u8
+https://int04.divan.tv:8081/secure/AiucD6EgoF8wUjIT44_MEA/1583441149/tv3/5e60f47db67187.28219735/tv.m3u8
 #EXTINF:-1,K1
 https://zenstream.divan.tv:8081/secure/xSJT-tHCfiQOz_fuzi28pA/1583450652/tv100/5e61199c8534a4.13046573/tv.m3u8
 #EXTINF:-1,Enter-Film
@@ -32,9 +32,9 @@ https://zenstream.divan.tv:8081/secure/HHwD9PbgJ13e6-GuXw1axA/1583512357/tv32/5e
 #EXTINF:-1,History
 https://zenstream.divan.tv:8081/secure/EnnWolzzPQQc9NV5_9SB4A/1583450856/tv106/5e611a68388cc6.53954482/tv.m3u8
 #EXTINF:-1,History 2
-https://int10.divan.tv:8081/secure/cRvrNT_vzMorAmiu6Povtw/1583512542/tv258/5e620b5e1365a6.09769845/tv.m3u8
+https://int04.divan.tv:8081/secure/cRvrNT_vzMorAmiu6Povtw/1583512542/tv258/5e620b5e1365a6.09769845/tv.m3u8
 #EXTINF:-1,Travel Channel 
-https://int09.divan.tv:8081/secure/VdqO_A5-AO3A5XQJigYTnw/1583704157/tv79/5e64f7ddca22f6.61600636/tv.m3u8
+https://int04.divan.tv:8081/secure/VdqO_A5-AO3A5XQJigYTnw/1583704157/tv79/5e64f7ddca22f6.61600636/tv.m3u8
 #EXTINF:-1,Viasat History
 https://zenstream.divan.tv:8081/secure/1b5ZqwN212FpiHNWTLYQVw/1583450924/tv236/5e611aac4add39.16567173/tv.m3u8
 #EXTINF:-1,Viasat Nature
@@ -50,7 +50,7 @@ https://zenstream.divan.tv:8081/secure/YiDDiXoJQi04oasppKAtXQ/1590597424/tv290/5
 #EXTINF:-1,VH1
 https://int04.divan.tv:8081/secure/ZP7uR31nHc0jEjHMKKsL5w/1590596784/tv287/5ece24306715d5.66190797/tv.m3u8
 #EXTINF:-1,EU Music HD
-https://int10.divan.tv:8081/secure/5gaPEdMzCYUzOMTJkCEeIQ/1613006815/tv152/6024175f849698.22234150/tv.m3u8
+https://int04.divan.tv:8081/secure/5gaPEdMzCYUzOMTJkCEeIQ/1613006815/tv152/6024175f849698.22234150/tv.m3u8
 #EXTINF:-1,Наше любимое кино
 https://j2.divan.tv:8081/secure/xORG9RX7_Lj1FySwP78Epg/1590597473/tv260/5ece26e1e68656.19520215/tv.m3u8
 #EXTINF:-1,Киномикс
@@ -80,11 +80,11 @@ https://zenstream.divan.tv:8081/secure/SAmVYzUQ1NZrJ8732f1HVg/1613006258/tv37/60
 #EXTINF:-1,Paramount Comedy
 https://zenstream.divan.tv:8081/secure/JolFVejmA5BuHqHXdkALJg/1583704213/tv108/5e64f8152f5451.07652293/tv.m3u8
 #EXTINF:-1,Spike
-https://int09.divan.tv:8081/secure/lubLZgMMlts0aH_94jlyrA/1597888288/tv266/5f3d66a0591d96.57560189/tv.m3u8
+https://int04.divan.tv:8081/secure/lubLZgMMlts0aH_94jlyrA/1597888288/tv266/5f3d66a0591d96.57560189/tv.m3u8
 #EXTINF:-1,Sony Channel 
 https://zenstream.divan.tv:8081/secure/uMocIaYuy2atU9ddX-s_eQ/1584299137/tv256/5e6e0c01b08433.73826868/tv.m3u8
 #EXTINF:-1,Sony Turbo
-https://int10.divan.tv:8081/secure/30PYw1feN4YR1dZPIEB5NQ/1584299216/tv257/5e6e0c50a6ab93.43222563/tv.m3u8
+https://int04.divan.tv:8081/secure/30PYw1feN4YR1dZPIEB5NQ/1584299216/tv257/5e6e0c50a6ab93.43222563/tv.m3u8
 #EXTINF:-1,Sony SciFi
 https://zenstream.divan.tv:8081/secure/tidU8Ji3rsB0vyW6X-La8Q/1584299285/tv255/5e6e0c95b37012.20411170/tv.m3u8
 #EXTINF:-1,TLC
